@@ -18,7 +18,4 @@ Calculator App adalah aplikasi mobile sederhana untuk melakukan perhitungan arit
 - Platform: **Android**  
 - Struktur proyek: menggunakan Gradle, modul `app/`, dan Activity utama  
 
-## 🚀 Instalasi & Menjalankan Aplikasi  
-1. Clone repository ini:  
-   ```bash
-   git clone https://github.com/FaizalAlfriandy/CALCULATOR-APP.git
+
